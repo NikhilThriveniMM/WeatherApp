@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###Snap shots
 
-<img src="my-app\src\Images\Screenshot 2024-07-07 201133.png" width="100" height="100"/>
+![Screenshot 2024-07-07 201133](https://github.com/NikhilThriveniMM/WeatherApp/assets/160772455/d3b12ad1-5c9c-4eaa-a1f5-43af7e0fef41)
 
 <img src="my-app\src\Images\Screenshot 2024-07-07 201253.png" width="100" height="100"/>
 
