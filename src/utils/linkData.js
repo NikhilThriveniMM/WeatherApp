@@ -2,4 +2,4 @@
 
 // export const LOCATION_API = ``
 
-{git appi}
+export const API_KEY = "USE_YOUR_OpenWeather_API_KEY"
