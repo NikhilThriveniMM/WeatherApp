@@ -74,6 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Screenshot 2024-07-07 201133](https://github.com/NikhilThriveniMM/WeatherApp/assets/160772455/d3b12ad1-5c9c-4eaa-a1f5-43af7e0fef41)
 
-<img src="my-app\src\Images\Screenshot 2024-07-07 201253.png" width="100" height="100"/>
+![Screenshot 2024-07-07 201253](https://github.com/NikhilThriveniMM/WeatherApp/assets/160772455/eef99ae0-a104-42ce-8da3-8a9d94250350)
 
 <img src="my-app\src\Images\Screenshot 2024-07-07 201419.png" width="100" height="100"/>
