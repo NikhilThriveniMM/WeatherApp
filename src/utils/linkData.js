@@ -2,4 +2,4 @@
 
 // export const LOCATION_API = ``
 
-export const API_KEY = "f6cb76d1a3dae283280d9564914a5b6d"
+{git appi}
